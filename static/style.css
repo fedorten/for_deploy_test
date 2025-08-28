@@ -1,0 +1,22 @@
+body {
+    color: rgb(255, 255, 255);
+    background-image: url("https://img1.akspic.ru/crops/1/5/9/1/7/171951/171951-lofoten-vyzvat_dozhd-senya-municipalitet_troms-more-3840x2160.jpg");
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    color: black;
+    background-color: lightgray;
+}
+
+.main {
+    text-align: center;
+    background-color: rgb(1, 0, 26);
+    border-radius: 50px;
+}
